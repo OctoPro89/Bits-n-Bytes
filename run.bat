@@ -1,0 +1,1 @@
+java -Djava.library.path=.\lwjgl-2.9.1\native\windows -jar VoxelGame.jar
